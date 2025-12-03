@@ -4,7 +4,7 @@
 
 I’m a passionate **Data Analyst** skilled in turning raw data into meaningful insights. I also explore **Java**, **PYTHON**, **PHP**, **Linux**, and **Cloud Computing** to strengthen my technical knowledge.
 
-## 🔧 **Skills**
+## 🛠 **Skills**
 - **Data Analysis:** Python, SQL, Excel, EDA  
 - **Programming:** Java (OOP, Threads), PHP (MySQL, Forms)  
 - **Linux:** Shell scripting, permissions, cron, networking  
