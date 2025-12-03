@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm **Nisha Pandey**
 
-<!--
-**nishapandey96/nishapandey96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Data Analyst | Tech Learner | Problem Solver**
 
-Here are some ideas to get you started:
+I’m a passionate **Data Analyst** skilled in turning raw data into meaningful insights. I also explore **Java**, **PHP**, **Linux**, and **Cloud Computing** to strengthen my technical knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 **Skills**
+- **Data Analysis:** Python, SQL, Excel, EDA  
+- **Programming:** Java (OOP, Threads), PHP (MySQL, Forms)  
+- **Linux:** Shell scripting, permissions, cron, networking  
+- **Cloud Basics:** AWS, Azure, Google App Engine  
+
+---
+
+## 📫 **Connect With Me**
+<!-- Add your email or LinkedIn URL -->
